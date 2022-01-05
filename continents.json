@@ -1,0 +1,237 @@
+{
+  "continents": [
+    { 
+      "id": 1,
+      "name": "Europa",
+      "image": "https://images.unsplash.com/photo-1473951574080-01fe45ec8643?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1504&q=80",
+      "description": "O continente mais antigo.",
+      "paragraph": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "countryNumber": 44,
+      "languageNumber": 200,
+      "cities100": 32,
+      "countries": [
+        {
+          "id": 1,
+          "name": "Reino Unido",
+          "city": "Londres",
+          "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png"
+        },
+        {
+          "id": 2,
+          "name": "França",
+          "city": "Paris",
+          "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1007&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/france/flag-round-250.png"
+        },
+        {
+          "id": 3,
+          "name": "Itália",
+          "city": "Roma",
+          "image": "https://images.unsplash.com/photo-1542820229-081e0c12af0b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/italy/flag-round-250.png"
+        },
+        {
+          "id": 4,
+          "name": "República Tcheca",
+          "city": "Praga",
+          "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/czech-republic/flag-round-250.png"
+        },
+        {
+          "id": 5,
+          "name": "Holanda",
+          "city": "Amsterdã",
+          "image": "https://images.unsplash.com/photo-1468436385273-8abca6dfd8d3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=994&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/netherlands/flag-round-250.png"
+        }
+      ]
+    },
+    { 
+      "id": 2,
+      "name": "África",
+      "image": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "description": "O continente mais diverso.",
+      "paragraph": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países. É um dos continentes mais diversos do mundo, em questão de culturas.",
+      "countryNumber": 54,
+      "languageNumber": 1700,
+      "cities100": 12,
+      "countries": [
+        {
+          "id": 1,
+          "name": "Egito",
+          "city": "Cairo",
+          "image": "https://images.unsplash.com/photo-1541769740-098e80269166?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/egypt/flag-round-250.png"
+        },
+        {
+          "id": 2,
+          "name": "África do Sul",
+          "city": "Cidade do Cabo",
+          "image": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/south-africa/flag-round-250.png"
+        },
+        {
+          "id": 3,
+          "name": "Tanzânia",
+          "city": "Zanzibar",
+          "image": "https://images.unsplash.com/photo-1570965483111-44cfc35d457a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/tanzania/flag-round-250.png"
+        }
+      ]
+    },
+    { 
+      "id": 3,
+      "name": "América do Norte",
+      "image": "https://images.unsplash.com/photo-1587226513115-f1e3439f1a35?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1069&q=80",
+      "description": "O continente influente.",
+      "paragraph": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala. Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe).",
+      "countryNumber": 23,
+      "languageNumber": 165,
+      "cities100": 10,
+      "countries": [
+        {
+          "id": 1,
+          "name": "Estados Unidos",
+          "city": "Nova York",
+          "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png"
+        },
+        {
+          "id": 2,
+          "name": "Canada",
+          "city": "Toronto",
+          "image": "https://images.unsplash.com/photo-1507992781348-310259076fe0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/canada/flag-round-250.png"
+        },
+        {
+          "id": 3,
+          "name": "México",
+          "city": "Cancún",
+          "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/mexico/flag-round-250.png"
+        },
+        {
+          "id": 4,
+          "name": "Cuba",
+          "city": "Havana",
+          "image": "https://images.unsplash.com/photo-1500759285222-a95626b934cb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/cuba/flag-round-250.png"
+        }
+      ]
+    },
+    { 
+      "id": 4,
+      "name": "América do Sul",
+      "image": "https://images.unsplash.com/photo-1543385426-191664295b58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1595&q=80",
+      "description": "O continente do novo mundo.",
+      "paragraph": "Também é considerada um subcontinente do continente americano. A sua extensão é de 17 milhões km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake.",
+      "countryNumber": 14,
+      "languageNumber": 448,
+      "cities100": 3,
+      "countries": [
+        {
+          "id": 1,
+          "name": "Brasil",
+          "city": "Rio de Janeiro",
+          "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png"
+        },
+        {
+          "id": 2,
+          "name": "Peru",
+          "city": "Lima",
+          "image": "https://images.unsplash.com/photo-1560565882-0878e2072234?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/peru/flag-round-250.png"
+        },
+        {
+          "id": 3,
+          "name": "Argentina",
+          "city": "Buenos Aires",
+          "image": "https://images.unsplash.com/photo-1534126874-5f6762c6181b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1215&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/argentina/flag-round-250.png"
+        }
+      ]
+    },
+    { 
+      "id": 5,
+      "name": "Ásia",
+      "image": "https://images.unsplash.com/photo-1535139262971-c51845709a48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "description": "O maior continente.",
+      "paragraph": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+      "countryNumber": 55,
+      "languageNumber": 2300,
+      "cities100": 43,
+      "countries": [
+        {
+          "id": 1,
+          "name": "Japão",
+          "city": "Tokyo",
+          "image": "https://images.unsplash.com/photo-1533050487297-09b450131914?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/japan/flag-round-250.png"
+        },
+        {
+          "id": 2,
+          "name": "Corei do Sul",
+          "city": "Seul",
+          "image": "https://images.unsplash.com/photo-1534274867514-d5b47ef89ed7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=970&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/south-korea/flag-round-250.png"
+        },
+        {
+          "id": 3,
+          "name": "Índia",
+          "city": "Delhi",
+          "image": "https://images.unsplash.com/photo-1551594278-0162be5d00c3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/india/flag-round-250.png"
+        },
+        {
+          "id": 4,
+          "name": "China",
+          "city": "Macau",
+          "image": "https://images.unsplash.com/photo-1556709911-93a82c864ece?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/china/flag-round-250.png"
+        },
+        {
+          "id": 5,
+          "name": "Filipinas",
+          "city": "Cebu",
+          "image": "https://images.unsplash.com/photo-1611990786025-c4a0d99e62c0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png"
+        }
+      ]
+    },
+    { 
+      "id": 6,
+      "name": "Oceania",
+      "image": "https://images.unsplash.com/photo-1595125990323-885cec5217ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "description": "O menor continente.",
+      "paragraph": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+      "countryNumber": 22,
+      "languageNumber": 200,
+      "cities100": 3,
+      "countries": [
+        {
+          "id": 1,
+          "name": "Austrália",
+          "city": "Sydney",
+          "image": "https://images.unsplash.com/photo-1493375366763-3ed5e0e6d8ec?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1081&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/australia/flag-round-250.png"
+        },
+        {
+          "id": 2,
+          "name": "Nova Zelândia",
+          "city": "Auckland",
+          "image": "https://images.unsplash.com/photo-1600208669687-f19af3638cb9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png"
+        },
+        {
+          "id": 3,
+          "name": "Fiji",
+          "city": "Suva",
+          "image": "https://images.unsplash.com/photo-1582260168787-fc5ab5ce8b5d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "flag": "https://cdn.countryflags.com/thumbs/fiji/flag-round-250.png"
+        }
+      ]
+    }
+  ]
+}
